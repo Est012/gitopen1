@@ -1,6 +1,5 @@
 print("Hello world!")
-<<<<<<< HEAD
 print("Hello once again")
-=======
 print("Hello darkness my old friend")
->>>>>>> new-remote4/master
+print("I've come to talk with you again")
+
